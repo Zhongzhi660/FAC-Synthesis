@@ -145,7 +145,3 @@ If you find this work helpful for your research, please cite our paper 🤩:
   year={2026}
 }
 ```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Zhongzhi660/FAC-Synthesis&type=Date)](https://star-history.com/#Zhongzhi660/FAC-Synthesis&Date)
