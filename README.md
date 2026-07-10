@@ -171,7 +171,7 @@ If you find this work helpful for your research, please cite our paper 🤩:
 
 ```bibtex
 @article{li2026less,
-  title={Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs},
+  title={Less is Enough: Synthesizing Diverse Data in LLM Feature Space with Sparse Autoencoders},
   author={Li, Zhongzhi and Wu, Xuansheng and Li, Yijiang and Hu, Lijie and Liu, Ninghao},
   journal={arXiv preprint arXiv:2602.10388},
   year={2026}
